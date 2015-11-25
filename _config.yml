@@ -1,7 +1,7 @@
 name: Allen Mortgage
 favicon: null
-layout_spectrum: 0.45521736005321145
-typography_spectrum: 0.09770479635335505
+layout_spectrum: 0.32276
+typography_spectrum: 0.48903
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8784209289588034
-  lightness: 0.12088425434194505
-  saturation: 0.041891048196703196
-  rhythmicContrast: 0.40520949894562364
+    - '#ffffff'
+    - '#0f589c'
+    - '#5a5a5a'
+    - '#bdbdbd'
+    - '#272727'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
