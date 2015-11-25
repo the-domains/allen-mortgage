@@ -2,6 +2,7 @@ name: Allen Mortgage
 favicon: null
 layout_spectrum: 0.32276
 typography_spectrum: 0.48903
+title: Allen Mortgage
 cta:
   domain: null
   bucket: null
